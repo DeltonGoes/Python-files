@@ -30,4 +30,4 @@ The directory should include the following files.
 The script offers a range of configuration options to customize the behavior of the genetic algorithm. Adjust parameters such as population size, generations, and mutation rate to fine-tune the genetic algorithm for your specific requirements.
 
 ## How to run
-Choose the Restart & Run All option in Kernel Tab of the Jupyter Notebook
+Choose the 'Restart & Run All' option in Kernel Tab of the Jupyter Notebook
