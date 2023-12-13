@@ -1,4 +1,6 @@
-# NIC_GA_Code
+## Travelling Thief Problem
+
+This Python script provides a solution to the Traveling Thief Problem (TTP) using a genetic algorithm approach. The script reads data from various TTP datasets, performs genetic algorithm operations such as crossover and mutation, and evaluates the fitness of the solutions based on both profit and time.
 
 ## Environment Setup
 Run the following line in your environment:
@@ -18,6 +20,8 @@ Run the following line in your environment:
         ├── pla33810-n338090.txt                 
         ├── requirements.txt #Dependencies to be installed
         └── README.md
+## Configuration
+
 ## How to run
 Clear the results folder if old results are not required. 
 Choose the Restart & Run All option in Kernel Tab of the Jupyter Notebook
