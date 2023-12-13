@@ -19,5 +19,5 @@ Run the following line in your environment:
         ├── requirements.txt #Dependencies to be installed
         └── README.md
 ## How to run
-Clear the results folder if old results are not required
-Choose the Restart & Run All option in Jupyter Notebook
+Clear the results folder if old results are not required. 
+Choose the Restart & Run All option in Kernel Tab of the Jupyter Notebook
