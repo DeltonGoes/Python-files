@@ -11,7 +11,8 @@ Run the following line in your environment:
 
     pip install -r requirements.txt
 ## Directory Setup
-    .
+The directory should include the following files.
+
         ├── NIC_Group_GA.ipynb #Jupyter Notebook
         ├── a280-n1395.txt   
         ├── a280-n279.txt
@@ -24,8 +25,9 @@ Run the following line in your environment:
         ├── pla33810-n338090.txt                 
         ├── requirements.txt #Dependencies to be installed
         └── README.md
+        
 ## Configuration
+The script offers a range of configuration options to customize the behavior of the genetic algorithm. Adjust parameters such as population size, generations, and mutation rate to fine-tune the genetic algorithm for your specific requirements.
 
 ## How to run
-Clear the results folder if old results are not required. 
 Choose the Restart & Run All option in Kernel Tab of the Jupyter Notebook
